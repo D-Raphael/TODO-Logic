@@ -13,10 +13,12 @@ class Tasks:
         pass
 
     def delete_task_items(self):
+
         pass
 
     def add_item2_task(self, task_title):
         pass
+        
     def add_task_item(self,title):
         items_list = []
         print(self.todo_list_items)
